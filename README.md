@@ -3,4 +3,6 @@ browser-based javascript visualization of the most popular sorting algorithms pr
 
 Hosted on [sort.dimaglushkov.xyz](https://sort.dimaglushkov.xyz)
 
+https://sorting-visuval-simulation-by-venkat.vercel.app/
+
 ![screen sample](https://github.com/dimaglushkov/visual-sorting/blob/master/sample.png)
